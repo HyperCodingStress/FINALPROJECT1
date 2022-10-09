@@ -1,0 +1,4 @@
+1. new project
+2. Setup Main Layout -> View (Button & Recyler View)
+3. Create Class Model Country
+4. Create Class DatabseHelper
